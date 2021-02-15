@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.egg-info/
+*.egg
+
+# Pip
+/build
+
+# PyTest
+/.pytest_cache/
+
+# MyPy
+/.mypy_cache/
